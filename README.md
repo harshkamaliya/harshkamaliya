@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sanjoy.hashnode.dev/sanjoy-paul-android-developer)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://harshkamaliya.000webhostapp.com/)**
 
 - 📫 How to reach me **harshraga7@gmail.com**
 
