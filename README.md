@@ -16,6 +16,10 @@
 
 - 📫 How to reach me **harshraga7@gmail.com**
 
+- 📫 Linkedin Url: https://www.linkedin.com/in/harshkamaliya/;
+
+- 💞️ I’m looking to collaborate on Android Projects
+
 - ⚡ Fun fact ****
 
 ## 🚀 Languages and Tools:
